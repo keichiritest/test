@@ -1,0 +1,9 @@
+{
+  "Enable": [
+    "gofmt",
+    "golint"
+  ],
+  "Exclude": [
+    "warning: exported (.*) (.*) should have comment or be unexported \\(golint\\)$"
+  ]
+}
